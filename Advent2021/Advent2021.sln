@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryDiag", "BinaryDiag\BinaryDiag.csproj", "{41DCAA60-F149-4EEE-9759-2975CE3092DC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DepthCheck", "DepthCheck\DepthCheck.csproj", "{30ED2EB5-DBF1-4BCE-A14B-F845A19165C2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PilotSub", "PilotSub\PilotSub.csproj", "{7A8C8CC8-9335-49F0-A85A-EC6D4643783D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41DCAA60-F149-4EEE-9759-2975CE3092DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41DCAA60-F149-4EEE-9759-2975CE3092DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41DCAA60-F149-4EEE-9759-2975CE3092DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41DCAA60-F149-4EEE-9759-2975CE3092DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30ED2EB5-DBF1-4BCE-A14B-F845A19165C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30ED2EB5-DBF1-4BCE-A14B-F845A19165C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30ED2EB5-DBF1-4BCE-A14B-F845A19165C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30ED2EB5-DBF1-4BCE-A14B-F845A19165C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A8C8CC8-9335-49F0-A85A-EC6D4643783D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A8C8CC8-9335-49F0-A85A-EC6D4643783D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A8C8CC8-9335-49F0-A85A-EC6D4643783D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A8C8CC8-9335-49F0-A85A-EC6D4643783D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82F4F775-6666-45C7-97DC-12B2F1F8B523}
+	EndGlobalSection
+EndGlobal
