@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DepthCheck", "DepthCheck\De
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PilotSub", "PilotSub\PilotSub.csproj", "{7A8C8CC8-9335-49F0-A85A-EC6D4643783D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bingo", "Bingo\Bingo.csproj", "{54844C11-BA3F-402B-9E23-D34A7A285EDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bingo", "Bingo\Bingo.csproj", "{54844C11-BA3F-402B-9E23-D34A7A285EDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HydroVents", "HydroVents\HydroVents.csproj", "{3145A2E5-E188-449D-9A59-ED8689D3284C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{54844C11-BA3F-402B-9E23-D34A7A285EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54844C11-BA3F-402B-9E23-D34A7A285EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54844C11-BA3F-402B-9E23-D34A7A285EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3145A2E5-E188-449D-9A59-ED8689D3284C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3145A2E5-E188-449D-9A59-ED8689D3284C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3145A2E5-E188-449D-9A59-ED8689D3284C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3145A2E5-E188-449D-9A59-ED8689D3284C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
